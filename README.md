@@ -1,0 +1,1 @@
+# karma-blink1-tdd-reporter
