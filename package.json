@@ -4,7 +4,7 @@
     "email": "roxanne.landry.27@gmail.com"
   },
   "name": "karma-blink1-tdd-reporter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -12,5 +12,6 @@
   },
   "dependencies": {
     "node-blink1": "^0.5.1"
-  }
+  },
+  "main": "karma-blink1-tdd-reporter"
 }
