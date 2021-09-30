@@ -1,0 +1,16 @@
+{
+  "author": {
+    "name": "Roxanne Landry",
+    "email": "roxanne.landry.27@gmail.com"
+  },
+  "name": "karma-blink1-tdd-reporter",
+  "version": "1.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karma-blink1/karma-blink1-tdd-reporter.git"
+  },
+  "dependencies": {
+    "node-blink1": "^0.5.1"
+  }
+}
